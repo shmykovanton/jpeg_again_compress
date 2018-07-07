@@ -1,0 +1,7 @@
+Build instruction
+----------------------
+Use cmake version 3.2 and higher.
+Run ./make.sh to start building
+
+
+
