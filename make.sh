@@ -1,0 +1,10 @@
+#!/bin/bash
+
+set -e
+
+mkdir -p build
+
+cd build
+cmake3 ../
+make
+cd ../
